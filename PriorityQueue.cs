@@ -1,6 +1,10 @@
 // Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
+// Copyright (c) .NET Foundation and Contributors
+// Copyright (c) Dierk Martin Strauß 2024
+// Added compatibility with .Net Framework 4.8
+
 using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
